@@ -11,10 +11,6 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexeyshalkevych/alex-dev-react-component-library.git"
-  },
   "keywords": [
     "react",
     "rollup",
