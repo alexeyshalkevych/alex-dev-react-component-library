@@ -1,5 +1,8 @@
 {
-  "name": "alex-dev-react-component-library",
+  "name": "@alexeyshalkevych/alex-dev-react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/alexeyshalkevych"
+  },
   "version": "1.0.0",
   "description": "setup react component library",
   "scripts": {
