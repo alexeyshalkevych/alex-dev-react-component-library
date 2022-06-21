@@ -3,6 +3,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/alexeyshalkevych"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeyshalkevych/alex-dev-react-component-library.git"
+  },
   "version": "1.0.0",
   "description": "setup react component library",
   "scripts": {
